@@ -31,6 +31,7 @@
 			<!-- Contact Details -->
 			<div id="contact-details">
 				<ul>
+					<li><div id="select-language"></div></li>
 					<li><i class="fa fa-bullhorn"></i><a href="https://www.transifex.com/inburgerweb/inburgerweb/">Help mee met vertalen!</a></li>
 				</ul>
 			</div>
