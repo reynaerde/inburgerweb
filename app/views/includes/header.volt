@@ -11,8 +11,8 @@
 		<div class="eight columns">
 			<div id="logo">
 				<!-- <a href="#"><img src="images/logo.png" alt="logo" /></a> -->
-				<div id="name">InburgerWeb</div>
-				<div id="tagline">Alle informatie over inburgeren, in je eigen taal</div>
+				<div id="name"><a href="/">InburgerWeb</a></div>
+				<div id="tagline">Over inburgeren, in je eigen taal</div>
 				<div class="clear"></div>
 			</div>
 		</div>
@@ -31,7 +31,7 @@
 			<!-- Contact Details -->
 			<div id="contact-details">
 				<ul>
-					<li><div id="select-language"></div></li>
+					<li><span class="bold">Pick language</span>: <div id="select-language"></div></li>
 					<li><i class="fa fa-bullhorn"></i><a href="https://www.transifex.com/inburgerweb/inburgerweb/">Help mee met vertalen!</a></li>
 				</ul>
 			</div>
@@ -47,7 +47,7 @@
 		<div id="navigation">
 			<ul id="nav">
 
-				<li><a href="/">Wat moet ik doen?</a></li>
+				<li><a href="/wat">Wat moet ik doen?</a></li>
 
 				<li><a href="/examen">Examen doen</a></li>
 

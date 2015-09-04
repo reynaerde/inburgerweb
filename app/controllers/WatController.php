@@ -1,6 +1,6 @@
 <?php
 
-class IndexController extends ControllerBase
+class WatController extends ControllerBase
 {
 
     public function indexAction()

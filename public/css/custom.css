@@ -1,15 +1,104 @@
+body{
+	font-size: 1.1em;
+}
+
+#logo{
+	margin-top: 0px;
+}
+
 #name{
 	float: left;
 	display: block;
 	font-size: 1.4em;
+	font-weight: bold;
+}
+
+#name a{
+	text-decoration: none;
+	color: inherit;
+}
+
+#contact-details{
+	text-align: right;
 }
 
 #contact-details li{
-	font-size: 1.1em;
+	/*font-size: 1.1em;*/
 }
 
 #contact-details li a{
 	background: orange;
 	color: white;
 	font-weight: bold;
+}
+
+#select-language{
+	display: inline-block;
+	position: relative;
+	text-decoration: underline;
+}
+
+#select-language ul{
+	min-width: 200px;
+	z-index: 10;
+}
+
+#select-language:hover{
+	cursor: pointer;
+}
+
+#select-language li{
+	display: block;
+}
+
+#select-language .txlive-langselector-list > li{
+	width: auto;
+}
+
+.bold{
+	font-weight: bold;
+}
+
+p a{
+	color: brown;
+	border-bottom: 1px dotted brown;
+}
+
+.spacer{
+	max-height: 80px;
+}
+
+@media (max-width: 1500px){
+	body{
+		font-size: 1em;
+	}
+	#name{
+		font-size: 1em;
+	}
+	#tagline{
+		padding: 0 0 0 20px;
+	}
+}
+
+@media (max-width: 1000px){
+	#tagline{
+		/*display: none;*/
+		display: block;
+		margin-left: 0px;
+		border-left: none;
+		padding: 0px;
+		clear:left;
+	}
+	#contact-details li{
+		display: block;
+		margin-left: 0px;
+		border-left: none;
+		margin: 0.5em 0;
+	}
+}
+
+@media (max-width: 768px){
+	#contact-details{
+		text-align: left;
+	}
 }

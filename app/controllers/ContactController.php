@@ -1,6 +1,6 @@
 <?php
 
-class IndexController extends ControllerBase
+class ContactController extends ControllerBase
 {
 
     public function indexAction()
