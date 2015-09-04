@@ -3,3 +3,13 @@
 	display: block;
 	font-size: 1.4em;
 }
+
+#contact-details li{
+	font-size: 1.1em;
+}
+
+#contact-details li a{
+	background: orange;
+	color: white;
+	font-weight: bold;
+}

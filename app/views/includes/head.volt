@@ -22,6 +22,6 @@
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 
-<script type="text/javascript">window.liveSettings={api_key:"5f1e6aaad9784b0a8bb67ba782f4ec4b",staging:true};</script>
+<script type="text/javascript">window.liveSettings={api_key:"5f1e6aaad9784b0a8bb67ba782f4ec4b"};</script>
 <script type="text/javascript" src="//cdn.transifex.com/live.js"></script>
 </head>

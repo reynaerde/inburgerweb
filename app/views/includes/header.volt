@@ -31,7 +31,7 @@
 			<!-- Contact Details -->
 			<div id="contact-details">
 				<ul>
-					<li><i class="fa  fa-envelope"></i><a href="#">info@inburgerweb.nl</a></li>
+					<li><i class="fa fa-bullhorn"></i><a href="https://www.transifex.com/inburgerweb/inburgerweb/">Help mee met vertalen!</a></li>
 				</ul>
 			</div>
 
