@@ -3,6 +3,18 @@ body{
 	line-height: 1.5em;
 }
 
+#navigation{
+	background: orange;
+}
+
+.content{
+	margin-bottom: 15px;
+}
+
+h4{
+	margin-top: 10px;
+}
+
 #logo{
 	margin-top: 0px;
 }
