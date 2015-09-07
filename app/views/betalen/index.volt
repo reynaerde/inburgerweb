@@ -29,7 +29,7 @@
 <!-- Page Content
 ================================================== -->
 <div class="twelve columns">
-	<?php include(APP_PATH . '/public/files/wat.html');?>
+	<?php include(APP_PATH . '/public/files/betalen.html');?>
 </div>
 </div>
 <!-- 960 Container End -->
