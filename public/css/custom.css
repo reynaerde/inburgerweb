@@ -82,6 +82,18 @@ p a{
 	max-height: 80px;
 }
 
+table{
+	margin-top: 1em;
+}
+
+.imgcontainer{
+	margin: 1em 0em;
+}
+
+.headline{
+	text-shadow: 0px 0px 10px orange;
+}
+
 @media (max-width: 1500px){
 	body{
 		font-size: 1em;
