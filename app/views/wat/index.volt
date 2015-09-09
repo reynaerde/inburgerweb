@@ -13,14 +13,19 @@
 	
 	<!-- Categories -->
 	<div class="widget-alt">
+		
+		<div id="quicklinks">
 		<div class="headline no-margin"><h4>Onderwerpen</h4></div>
 			<ul class="links-list-alt">
-				<li><a href="#">Privacy Policy</a></li>
-				<li><a href="#">Service Updates</a></li>
-				<li><a href="#">Knowledgebase</a></li>
-				<li><a href="#">Help Desk</a></li>
-				<li><a href="#">Contact</a></li>
+				<li><a href="#school-en-leren">School en leren</a></li>
+				<li><a href="#inburgeringsexamen-of-staatsexamen-nt2">Inburgeringsexamen</a></li>
+				<li><a href="#geen-examen-doen">Geen examen doen</a></li>
+				<li><a href="#er-te-lang-over-doen">Er te lang over doen</a></li>
+				<li><a href="#asielmigranten">Asielmigranten</a></li>
+				<li><a href="#zelf-verantwoordelijk">Zelf verantwoordelijk</a></li>
 			</ul>
+		</div>
+		&nbsp;
 	</div>
 	
 </div>

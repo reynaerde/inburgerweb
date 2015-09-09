@@ -15,8 +15,8 @@
 	<div class="eight columns">
 		<!-- Headline -->
 		<div class="headline no-margin"><h3>Help mee</h3></div>
-		<p>Ten eerste is er behoefte aan vertalers. Spreek je een buitenlandse taal, <a href="/help">help dan mee</a>! Alle talen zijn welkom, hoewel de meeste focus natuurlijk ligt op de meest voorkomende talen bij nieuwkomers.</p>
-		<p>Daarnaast is er ook behoefte aan <a href="/help">vrijwilligers ('inburger buddies')</a> die nieuwkomers willen helpen om in te burgeren. Op deze website staat een hoop informatie, maar er moeten ook formulieren worden ingevuld, etc, etc.</p>
+		<p>Ten eerste is er behoefte aan vertalers. Spreek je een buitenlandse taal, <a href="https://www.transifex.com/inburgerweb/inburgerweb/">help dan mee</a>! Alle talen zijn welkom, hoewel de meeste focus natuurlijk ligt op de meest voorkomende talen bij nieuwkomers.</p>
+		<p>Daarnaast is er ook behoefte aan <a href="/formulier">vrijwilligers ('inburger buddies')</a> die nieuwkomers willen helpen om in te burgeren. De informatie lezen betekent niet dat alles meteen helemaal duidelijk is natuurlijk.</p>
 
 	</div>
 </div>
@@ -51,12 +51,12 @@
 <div class="container">
 	<div class="sixteen columns">
 		<div class="headline no-margin"><h3>Inburgerings stappenplan</h3></div>	
-		<p>
-		<ol>
-			<li>(eventueel) een lening aanvragen om cursussen te betalen</li>
-			<li>School zoeken</li>
-			<li>Nederlandse taal en gewoontes leren</li>
-			<li>Inburgeringsexamen doen</li>
+
+		<ol id="stappenplan">
+			<li>(eventueel) een <a href="/betalen">lening aanvragen</a> om cursus te betalen</li>
+			<li><a href="/wat#school-en-leren">School zoeken</a></li>
+			<li>Nederlandse taal en gewoontes <a href="/wat">leren</a></li>
+			<li><a href="/examen">Inburgeringsexamen</a> doen</li>
 		</ol>
 		<br/>
 		<hr/>

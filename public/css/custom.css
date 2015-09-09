@@ -73,9 +73,13 @@ h4{
 	font-weight: bold;
 }
 
-p a{
+p a, #stappenplan a{
 	color: brown;
 	border-bottom: 1px dotted brown;
+}
+
+#stappenplan li{
+	margin-bottom: 0.5em;
 }
 
 .spacer{
@@ -92,6 +96,36 @@ table{
 
 .headline{
 	text-shadow: 0px 0px 10px orange;
+}
+
+#quicklinks{
+	position: fixed;
+}
+
+.sticky{
+	top: 0px;
+}
+
+section ul{
+	list-style: square;
+	margin-left: 2em;
+	margin-bottom: 1em;
+}
+
+ul.accordion li{
+	clear: both;
+}
+
+section{
+	clear: both;
+}
+
+a > span{
+	display: none;
+}
+
+p.version{
+	display: none;
 }
 
 @media (max-width: 1500px){
@@ -120,6 +154,11 @@ table{
 		margin-left: 0px;
 		border-left: none;
 		margin: 0.5em 0;
+	}
+
+	#quicklinks{
+		position: relative;
+		top: 0px !important;
 	}
 }
 

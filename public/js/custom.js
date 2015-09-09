@@ -395,6 +395,29 @@ var emailReg = /^[a-zA-Z0-9._-]+@([a-zA-Z0-9.-]+\.)+[a-zA-Z0-9.-]{2,4}$/;
 	
 	
 })();
+
+
+var stickyNavTop = $('#quicklinks').offset().top;
+ 
+var stickyNav = function(){
+	var scrollTop = $(window).scrollTop();
+	var pos = stickyNavTop - scrollTop;
+	if (pos < 10) { pos = 10;}
+	$('#quicklinks').css('top',pos + 'px');
+	      
+	// if (scrollTop > stickyNavTop) { 
+	//     $('#quicklinks').addClass('sticky');
+	// } else {
+	//     $('#quicklinks').removeClass('sticky'); 
+	// }
+};
+ 
+stickyNav();
+	 
+$(window).scroll(function() {
+	    stickyNav();
+});
+
 	
 /* ------------------ End Document ------------------ */
 });
