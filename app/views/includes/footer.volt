@@ -23,9 +23,9 @@
 		
 		<!-- Photo Stream -->
 		<div class="four columns">
-			<div class="footer-headline"><h4></h4></div>
+			<div class="footer-headline"><h4>Sponsors</h4></div>
 			<p>
-
+				De vertalingen worden mogelijk gemaakt in samenwerking met <a href="http://www.transifex.com">Transifex</a>.
 			</p>
 		</div>
 		
