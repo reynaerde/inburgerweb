@@ -116,6 +116,10 @@ ul.accordion li{
 	clear: both;
 }
 
+li img{
+	display: inline;
+}
+
 section{
 	clear: both;
 }
