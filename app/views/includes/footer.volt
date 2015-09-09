@@ -9,7 +9,7 @@
 		<!-- About -->
 		<div class="four columns">
 			<div class="footer-headline"><h4>Over InburgerWeb</h4></div>
-			<p>InburgerWeb wil het makkelijker maken om in te burgeren. Kijk <a href="/over">hier</a> om weer te lezen over de motivatie en de doelen van InburgerWeb.</p>
+			<p>InburgerWeb wil het makkelijker maken om in te burgeren. Deze website is daartoe een eerste opzet.</p>
 			
 		</div>
 		
