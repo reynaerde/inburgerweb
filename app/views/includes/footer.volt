@@ -15,8 +15,9 @@
 		
 		<!-- Useful Links -->
 		<div class="four columns">
-			<div class="footer-headline"><h4></h4></div>
+			<div class="footer-headline"><h4>Contact</h4></div>
 			<p>
+				Vragen? Opmerkingen? Mail naar info@inburgerweb.nl
 			</p>
 		</div>
 		
@@ -24,6 +25,7 @@
 		<div class="four columns">
 			<div class="footer-headline"><h4></h4></div>
 			<p>
+
 			</p>
 		</div>
 		
