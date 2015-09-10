@@ -15,7 +15,7 @@
 	<div class="eight columns">
 		<!-- Headline -->
 		<div class="headline no-margin"><h3>Help mee</h3></div>
-		<p>Ten eerste is er behoefte aan vertalers. Spreek je een buitenlandse taal, <a href="https://www.transifex.com/inburgerweb/inburgerweb/">help dan mee</a>! Alle talen zijn welkom, hoewel de meeste focus natuurlijk ligt op de meest voorkomende talen bij nieuwkomers.</p>
+		<p>Ten eerste is er behoefte aan vertalers. Spreek je een buitenlandse taal, <a href="/help">help dan mee</a>! Je kunt al helpen door &eacute;&eacute;n enkele zin te vertalen, meer mag natuurlijk zeker!</p>
 		<p>Daarnaast is er ook behoefte aan <a href="/formulier">vrijwilligers ('inburger buddies')</a> die nieuwkomers willen helpen om in te burgeren. De informatie lezen betekent niet dat alles meteen helemaal duidelijk is natuurlijk.</p>
 
 	</div>

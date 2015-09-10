@@ -15,10 +15,10 @@
 
 <!-- CSS
 ================================================== -->
-<link rel="stylesheet" type="text/css" href="css/style.css">
-<link rel="stylesheet" type="text/css" href="css/wide.css" id="layout">
-<link rel="stylesheet" type="text/css" href="css/colors/orange.css" id="colors">
-<link rel="stylesheet" type="text/css" href="css/custom.css">
+<link rel="stylesheet" type="text/css" href="/css/style.css">
+<link rel="stylesheet" type="text/css" href="/css/wide.css" id="layout">
+<link rel="stylesheet" type="text/css" href="/css/colors/orange.css" id="colors">
+<link rel="stylesheet" type="text/css" href="/css/custom.css">
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 

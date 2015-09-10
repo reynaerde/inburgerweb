@@ -32,7 +32,7 @@
 			<div id="contact-details">
 				<ul>
 					<li><span class="bold"><i class="fa fa-globe"></i>Choose language</span>: <i class="fa fa-hand-o-right"></i><div id="select-language"></div></li>
-					<li><i class="fa fa-bullhorn"></i><a href="https://www.transifex.com/inburgerweb/inburgerweb/">Help mee met vertalen!</a></li>
+					<li><i class="fa fa-bullhorn"></i><a href="/help">Help mee met vertalen!</a></li>
 				</ul>
 			</div>
 
