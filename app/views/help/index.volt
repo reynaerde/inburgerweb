@@ -51,10 +51,10 @@
 	  <br/>
 	  <h4>Onvertaalde tekst bekijken</h4>
 	  <p>Als er al veel vertaald is naar een taal kan het handig zijn om alleen de onvertaalde teksten te zien. Om dat te doen ga je naar <a href="https://www.transifex.com/inburgerweb/inburgerweb/translate/#en/wwwinburgerwebnl/60314532?translated=no" target="_blank">https://www.transifex.com/inburgerweb/inburgerweb/translate/#en/wwwinburgerwebnl/60314532?translated=no</a>.<br/>
-	  	Selecteer nu de taal waarnaar je wilt vertalen door op 'English (en)' te klikken, linksboven, na de pijl.<br/>Je ziet nu de lijst met nog niet vertaalde tekst. Klik op een stuk tekst om deze te vertalen. Vergeet niet om op 'save' te klikken!</p>
+	  	Selecteer nu de taal waarnaar je wilt vertalen door op 'English (en)' te klikken (linksboven, na de pijl).<br/>Je ziet nu de lijst met nog niet vertaalde tekst. Klik op een stuk tekst om deze te vertalen. Vergeet niet om op 'save' te klikken!</p>
 	  <h4>Vertalen via een andere taal</h4>
 	  <p>Als Nederlands niet je 1e taal is kun je er voor kiezen om te vertalen vanuit een andere taal (bijvoorbeeld Engels).<br/>Ga naar <a href="https://www.transifex.com/inburgerweb/inburgerweb/translate/#pl/wwwinburgerwebnl/60307005?translated=no" target="_blank">https://www.transifex.com/inburgerweb/inburgerweb/translate/#pl/wwwinburgerwebnl/60307005?translated=no</a>.<br/>
-	  	Selecteer nu de taal waarnaar je wilt vertalen door op 'English (en)' te klikken, linksboven, na de pijl.<br/>
+	  	Selecteer nu de taal waarnaar je wilt vertalen door op 'English (en)' te klikken (linksboven, na de pijl).<br/>
 	  	Klik nu op de groene knop rechtsboven met een tandwiel, en klik op 'Show source string in Dutch (Netherlands) (nl_NL)'. Je kunt nu in de dropdown de taal kiezen waaruit je wilt vertalen.</p>
 	  	<p>Stel je wilt vanuit het Engels vertalen naar het Arabisch, dan volg je de link hierboven, selecteert dan 'Arabic' nadat je op 'English (en)' hebt geklikt linksboven, en selecteert daarna 'English' nadat je op het groene tandwiel rechtsboven en daarna 'Show source string in Dutch (Netherlands) (nl_NL)' hebt geklikt.</p>
 	  	<p>Je ziet nu de tekst in het Engels, en in het Nederlands. De vertaling kun je weer in het tekstveld invoeren.</p>
